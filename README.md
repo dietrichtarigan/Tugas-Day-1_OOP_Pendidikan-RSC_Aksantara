@@ -1,8 +1,6 @@
 # Tugas-Day-1_OOP_Pendidikan-RSC_Aksantara
 
-# PhoneBook Pak Bell
-
-## Deskripsi
+## PhoneBook Pak Bel_Deskripsi
 
 **"Duh, Pak Bell Butuh Bantuanku"** adalah sebuah program aplikasi PhoneBook yang ditulis dalam bahasa C++. Program ini dirancang untuk membantu Pak Bell dalam mengelola kontak teman-temannya sebagai bagian dari rencana kejutan melamarnya. Dengan aplikasi ini, pengguna dapat menambahkan, mencari, dan melihat detail kontak dengan batas maksimal 8 kontak tanpa menggunakan dynamic memory allocation.
 
